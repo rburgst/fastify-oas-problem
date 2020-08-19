@@ -1,0 +1,15 @@
+{
+  "name": "fastify-oas-bug",
+  "version": "1.0.0",
+  "description": "sample project showing oas problem",
+  "main": "index.js",
+  "author": "rburgst@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^3.2.1",
+    "fastify-oas": "^3.0.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  }
+}
